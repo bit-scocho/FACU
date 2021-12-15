@@ -1,0 +1,33 @@
+# TP 1 SEMINARIO LENGUAJE 2 #
+
+#> Parte 1:
+
+1_ Se denomina Kernel en linux al nucleo del mismo, es decir la base central del funcionamiento del S.O, sin nucleo/kernel no existe S.O
+
+2_ Una distribucion GNU/Linux o llamado de otro modo como distro no es mas que un software basado en el kernel de Linux con paquetes de aplicaciones
+y un destino de uso determinado a ciertos usuarios. Un ejemplo claro seria Debian (el cual es padre de varias distros) que dio origen a distros como Ubuntu,
+Kali Linux, BackTrack (ya obsoleta) #==> Falta terminar...
+
+6_ Mediante un emulador de terminal o CLI (Command-line Interface / Interfaz de Linea de Comando) podemos realizar varias acciones a traves de la ejecucion de comandos
+ingresados por el usuario, algunos de ellos son:
+	
+	> whoami -> Imprime en terminal el nombre de usuario actual.
+	> mkdir -> Crea un directorio.
+	> rm -> Elimina un directorio.
+	> cd -> Ingresa a un directorio.
+	> cp -> Copia un directorio.
+	> mv -> Mueve un directorio de una ruta a otra.
+	> ls -> Lista el contenido de un directorio.
+	> touch -> Crea un fichero.
+	> echo -> Imprime un texto en terminal, ingresado por el usuario.
+	> pwd -> Imprime la ruta del directorio actual en la que se encuentra el usuario.
+	> sudo - Ejecuta comandos en modo usuario "root".
+	> tail -> Muestra las ultimas 10 lineas de un fichero.
+	> head -> Muestra las primeras 10 linead de un fichero.
+	> man -> Imprime el manual (si lo tiene) de un comando solicitado.
+	> grep -> Imprime lineas de un fichero que coincidan con los argumentos ingresados.
+	> more -> Imprime el contenido de un fichero de forma mas comoda para su lectura.
+	> file -> Imprime el tipo de archivo de un fichero solicitado.
+	> mount -> Monta una particion del sistema.
+	> du -> Imprime el tamaño de un directorio o fichero.
+	> which -> Imprime la ruta de ubicacion de un comando determinado.
